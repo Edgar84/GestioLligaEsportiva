@@ -465,7 +465,5 @@ public class GestioLligaEsportiva {
         System.out.println(punts);
     
     }
-
-   //
     
 }
